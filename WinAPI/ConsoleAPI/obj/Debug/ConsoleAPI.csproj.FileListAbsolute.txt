@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe.config
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\bin\Debug\ConverterLib.dll
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\bin\Debug\ConverterLib.pdb
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\obj\Debug\ConsoleAPI.exe
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConsoleAPI\obj\Debug\ConsoleAPI.pdb

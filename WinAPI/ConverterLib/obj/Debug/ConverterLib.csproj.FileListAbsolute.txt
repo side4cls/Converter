@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConverterLib\bin\Debug\ConverterLib.dll
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConverterLib\bin\Debug\ConverterLib.pdb
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.dll
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.pdb
+C:\Users\Student\Desktop\пкс-20\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.csprojResolveAssemblyReference.cache
+E:\WindowsAPI\ConverterLib\bin\Debug\ConverterLib.dll
+E:\WindowsAPI\ConverterLib\bin\Debug\ConverterLib.pdb
+E:\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+E:\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+E:\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.dll
+E:\WindowsAPI\ConverterLib\obj\Debug\ConverterLib.pdb
+E:\Education\utkin\WinAPI\ConverterLib\bin\Debug\ConverterLib.dll
+E:\Education\utkin\WinAPI\ConverterLib\bin\Debug\ConverterLib.pdb
+E:\Education\utkin\WinAPI\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+E:\Education\utkin\WinAPI\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+E:\Education\utkin\WinAPI\ConverterLib\obj\Debug\ConverterLib.dll
+E:\Education\utkin\WinAPI\ConverterLib\obj\Debug\ConverterLib.pdb
